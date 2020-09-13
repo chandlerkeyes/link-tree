@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/link-tree/static/css/main.41763d72.chunk.css",
+    "main.js": "/link-tree/static/js/main.f00e2822.chunk.js",
+    "main.js.map": "/link-tree/static/js/main.f00e2822.chunk.js.map",
+    "runtime-main.js": "/link-tree/static/js/runtime-main.e5dab583.js",
+    "runtime-main.js.map": "/link-tree/static/js/runtime-main.e5dab583.js.map",
+    "static/js/2.ddb7c8e8.chunk.js": "/link-tree/static/js/2.ddb7c8e8.chunk.js",
+    "static/js/2.ddb7c8e8.chunk.js.map": "/link-tree/static/js/2.ddb7c8e8.chunk.js.map",
+    "index.html": "/link-tree/index.html",
+    "precache-manifest.16c99f2b2107fa75c201f631a4aa541e.js": "/link-tree/precache-manifest.16c99f2b2107fa75c201f631a4aa541e.js",
+    "service-worker.js": "/link-tree/service-worker.js",
+    "static/css/main.41763d72.chunk.css.map": "/link-tree/static/css/main.41763d72.chunk.css.map",
+    "static/js/2.ddb7c8e8.chunk.js.LICENSE.txt": "/link-tree/static/js/2.ddb7c8e8.chunk.js.LICENSE.txt",
+    "static/media/styles.scss": "/link-tree/static/media/selfie.c8fdf7b0.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e5dab583.js",
+    "static/js/2.ddb7c8e8.chunk.js",
+    "static/css/main.41763d72.chunk.css",
+    "static/js/main.f00e2822.chunk.js"
+  ]
+}

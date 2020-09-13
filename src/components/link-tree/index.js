@@ -22,6 +22,8 @@ function LinkTree() {
                     <LinkButton link={LINKS.CHANDLER_KNOWS_BEST} text={'ChandlerKnowsBest'} />
                     <LinkButton link={LINKS.CODING_WITH_CHANDLER} text={'CodingWithChandler'} />
                 </div>
+                <h3>Projects</h3>
+                <LinkButton link={LINKS.GITHUB} text={'GitHub'} />
                 <h3>Personal Blog</h3>
                 <LinkButton link={LINKS.BLOG} text={'ThinkWithColor'} />
                 <h3>Socials</h3>

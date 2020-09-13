@@ -11,6 +11,8 @@ function LinkTree() {
             <div className={`${CLASS_NAME}-container`}>
                 <div className={`${CLASS_NAME}-image`} />
                 <p>Subscribe - Like - Share</p>
+                <h3>Latest Video</h3>
+                <LinkButton link={LINKS.LATEST_VIDEO} text={'Latest Video'} />
                 <h3>YouTube Channel(s)</h3>
                 <div className="button-group-1">
                     <LinkButton link={LINKS.CHANDLER_KNOWS_BEST} text={'ChandlerKnowsBest'} />

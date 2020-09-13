@@ -4,5 +4,6 @@ export const LINKS = {
     BLOG: 'https://thinkwithcolor.com/',
     INSTAGRAM: 'https://www.instagram.com/chandler.keyes/',
     TWITTER: 'https://twitter.com/chandlerkeyes',
-    LINKEDIN: 'https://www.linkedin.com/in/chandlerkeyes/'
+    LINKEDIN: 'https://www.linkedin.com/in/chandlerkeyes/',
+    LATEST_VIDEO: 'https://www.youtube.com/watch?v=tSPGR0jsxqU'
 }

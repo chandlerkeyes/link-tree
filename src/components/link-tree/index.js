@@ -10,6 +10,10 @@ function LinkTree() {
         <div className={CLASS_NAME}>
             <div className={`${CLASS_NAME}-container`}>
                 <div className={`${CLASS_NAME}-image`} />
+                <div className={`${CLASS_NAME}-info`}>
+                    <h4>Chandler Keyes</h4>
+                    <p>@chandler.keyes</p>
+                </div>
                 <p>Subscribe - Like - Share</p>
                 <h3>Latest Video</h3>
                 <LinkButton link={LINKS.LATEST_VIDEO} text={'Understanding useEffect()'} />

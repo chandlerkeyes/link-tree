@@ -56,4 +56,18 @@
         font-family: 'Syne', sans-serif;
         font-size: 22px;
     }
+
+    &-info {
+        color: white;
+        padding-top: 18px;
+        h4 {
+            margin: 0;
+            font-size: 24px;
+
+        }
+        p {
+            color: white;
+            margin: 0;
+        }
+    }
 }

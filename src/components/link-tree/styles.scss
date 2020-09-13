@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Syne:wght@400;500&display=swap');
+
+.link-tree {
+    width: 100%;
+    &-container {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        padding-bottom: 40px;
+    }
+
+    &-image {
+        content: url(../../assets/selfie.png);
+        border-radius: 50%;
+        width: 200px;
+        height: 200px;
+        object-fit: contain;
+        margin: auto;
+    }
+
+    button {
+        width: 250px;
+        height: 35px;
+        background: #99C24D;
+        color: white;
+        outline: none;
+        border: none;
+        border-radius: 6px;
+        font-family: 'Syne', sans-serif;
+        font-weight: bold;
+    }
+
+    p {
+        font-family: 'Syne', sans-serif;
+        font-size: 18px;
+        color: #F18F01;
+        font-weight: bold;
+    }
+
+    .button-group-1, .button-group-2 {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+    }
+
+    .button-group-1 {
+      height: 90px;
+    }
+
+    .button-group-2 {
+      height: 150px;
+    }
+
+    h3 {
+        color: #048BA8;
+        font-family: 'Syne', sans-serif;
+        font-size: 22px;
+    }
+}

@@ -16,7 +16,7 @@ function LinkTree() {
                 </div>
                 <p>Subscribe - Like - Share</p>
                 <h3>Latest Video</h3>
-                <LinkButton link={LINKS.LATEST_VIDEO} text={'Understanding useEffect()'} />
+                <LinkButton link={LINKS.LATEST_VIDEO} text={'12 Minute Yoga for Abs & Toning'} />
                 <h3>YouTube Channel(s)</h3>
                 <div className="button-group-1">
                     <LinkButton link={LINKS.CHANDLER_KNOWS_BEST} text={'ChandlerKnowsBest'} />

@@ -14,9 +14,9 @@ function LinkTree() {
                     <h4>Chandler Keyes</h4>
                     <p>@chandler.keyes</p>
                 </div>
-                <p>Subscribe - Like - Share</p>
+                <p>Email: chandlerknowsbest247@gmail.com</p>
                 <h3>Latest Video</h3>
-                <LinkButton link={LINKS.LATEST_VIDEO} text={'12 Minute Yoga for Abs & Toning'} />
+                <LinkButton link={LINKS.LATEST_VIDEO} text={`14 Day Jump Rope Challenge w/ Before & After Results (NO DIETING)`} />
                 <h3>YouTube Channel(s)</h3>
                 <div className="button-group-1">
                     <LinkButton link={LINKS.CHANDLER_KNOWS_BEST} text={'ChandlerKnowsBest'} />

@@ -14,7 +14,7 @@ function LinkTree() {
                     <h4>Chandler Keyes</h4>
                     <p>@chandler.keyes</p>
                 </div>
-                <p>Email: chandlerknowsbest247@gmail.com</p>
+                <p>chandlerknowsbest247@gmail.com</p>
                 <h3>Latest Video</h3>
                 <LinkButton link={LINKS.LATEST_VIDEO} text={`14 Day Jump Rope Challenge`} />
                 <h3>YouTube Channel(s)</h3>

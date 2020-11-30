@@ -6,6 +6,6 @@ export const LINKS = {
     TWITTER: 'https://twitter.com/chandlerkeyes',
     LINKEDIN: 'https://www.linkedin.com/in/chandlerkeyes/',
     LATEST_VIDEO: 'https://www.youtube.com/watch?v=q3aqatKiMJU',
-    LATEST_VIDEO2L 'https://www.youtube.com/watch?v=Wa12xZLPAk4',
+    LATEST_VIDEO2: 'https://www.youtube.com/watch?v=Wa12xZLPAk4',
     GITHUB: 'https://github.com/chandlerkeyes'
 }

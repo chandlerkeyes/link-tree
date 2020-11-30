@@ -15,7 +15,8 @@ function LinkTree() {
                     <p>@chandler.keyes</p>
                 </div>
                 <p>chandlerknowsbest247@gmail.com</p>
-                <h3>Latest Video</h3>
+                <h3>Latest Videos</h3>
+                <LinkButton link={LINKS.LATEST_VIDEO2} text={`The Effects of Social Media`} />
                 <LinkButton link={LINKS.LATEST_VIDEO} text={`14 Day Jump Rope Challenge`} />
                 <h3>YouTube Channel(s)</h3>
                 <div className="button-group-1">

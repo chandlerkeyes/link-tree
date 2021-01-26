@@ -5,7 +5,7 @@ export const LINKS = {
     INSTAGRAM: 'https://www.instagram.com/chandler.keyes/',
     TWITTER: 'https://twitter.com/chandlerkeyes',
     LINKEDIN: 'https://www.linkedin.com/in/chandlerkeyes/',
-    LATEST_VIDEO: 'https://www.youtube.com/watch?v=FLUh5-apnws',
+    LATEST_VIDEO: 'https://youtu.be/6Xt4jx_S5Nw',
     LATEST_VIDEO2: 'https://www.youtube.com/watch?v=Pf8RXVNjZYI&t=0s',
     LATEST_VIDEO3: 'https://www.youtube.com/watch?v=Z_mxrGnXcik&t=81s',
     GITHUB: 'https://github.com/chandlerkeyes'

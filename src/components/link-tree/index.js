@@ -19,7 +19,7 @@ function LinkTree() {
                 <LinkButton link={LINKS.KODEABLY} text={`kodeably.com`} />
                 <h3>Latest Videos</h3>
                 <div className="button-group-2">
-                    <LinkButton link={LINKS.LATEST_VIDEO} text={`ANYONE Can Start Learning Python and Here's How`} />
+                    <LinkButton link={LINKS.LATEST_VIDEO} text={`Fake Moonlanding`} />
                     <LinkButton link={LINKS.LATEST_VIDEO2} text={`Why Going Through A Coding Bootcamp Helped Me Land My First Job`} />
                     <LinkButton link={LINKS.LATEST_VIDEO3} text={`How to Start Coding TODAY`} />
                 </div>

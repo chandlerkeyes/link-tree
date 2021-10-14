@@ -1,5 +1,5 @@
 export const LINKS = {
-    FREE_INTERVIEW: 'https://docs.google.com/forms/d/1YpuDotTvKhtd0IpjkWyEzWv0hsABf6NrJ48i2c-q-vE/edit?usp=sharing',
+    FREE_INTERVIEW: 'https://docs.google.com/forms/d/e/1FAIpQLSe-ioQYsCo4JuqxzTCXaUkAO5AbWeQyf2M_eV9UC9Ip5k0EWg/viewform?usp=sf_link',
     CODING_WITH_CHANDLER: 'https://www.youtube.com/channel/UCkeSKp49ycaZRlGKkCRRi1g',
     CHANDLER_KNOWS_BEST: 'https://www.youtube.com/user/ChandlerKnowsBest',
     BLOG: 'https://thinkwithcolor.com/',

@@ -2,19 +2,22 @@
 
 .link-tree {
     .email {
-        font-size: 18px;
+        color: #ffffff;
+        font-size: 12px;
+        text-transform: uppercase;
     }
     width: 100%;
     &-container {
         display: flex;
         flex-direction: column;
         justify-content: center;
-        padding: 40px 0;
+        padding: 40px 30px;
     }
 
     &-image {
-        content: url(../../assets/selfie.png);
+        content: url(../../assets/selfie.jpg);
         border-radius: 50%;
+        border: 3px solid #ffffff;
         width: 200px;
         height: 200px;
         object-fit: contain;
@@ -22,22 +25,22 @@
     }
 
     button {
-        width: 250px;
+        width: 100%;
         height: 35px;
-        background: #99C24D;
-        color: white;
+        background: #265479;
+        color: #ffffff;
         outline: none;
         border: none;
-        border-radius: 6px;
         font-family: 'Syne', sans-serif;
         font-weight: bold;
         font-size: 12px;
+        border: 1px solid #ffffff;
     }
 
     p {
         font-family: 'Syne', sans-serif;
         font-size: 18px;
-        color: #F18F01;
+        color: #ffffff;
         font-weight: bold;
     }
 
@@ -56,9 +59,11 @@
     }
 
     h3 {
-        color: #048BA8;
+        color: #ffffff;
         font-family: 'Syne', sans-serif;
-        font-size: 22px;
+        font-size: 14px;
+        text-transform: uppercase;
+        padding-top: 15px;
     }
 
     &-info {

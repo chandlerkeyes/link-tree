@@ -10,12 +10,9 @@ function LinkTree() {
         <div className={CLASS_NAME}>
             <div className={`${CLASS_NAME}-container`}>
                 <div className={`${CLASS_NAME}-image`} />
-                <div className={`${CLASS_NAME}-info`}>
-                    <h4>Chandler Keyes</h4>
-                    <p>@chandler.keyes</p>
-                </div>
                 <p className="email">chandler@kodeably.com</p>
-                <h3>Learn more about Kodeably</h3>
+                <LinkButton link={LINKS.FREE_INTERVIEW} text={`Free Mock Interview Signup Form`} />
+                <br/>
                 <LinkButton link={LINKS.KODEABLY} text={`kodeably.com`} />
                 <h3>Latest Videos</h3>
                 <div className="button-group-2">
@@ -23,7 +20,7 @@ function LinkTree() {
                     <LinkButton link={LINKS.LATEST_VIDEO2} text={`Why Going Through A Coding Bootcamp Helped Me Land My First Job`} />
                     <LinkButton link={LINKS.LATEST_VIDEO3} text={`How to Start Coding TODAY`} />
                 </div>
-                <h3>YouTube Channel(s)</h3>
+                <h3>YouTube</h3>
                 <div className="button-group-1">
                     <LinkButton link={LINKS.CHANDLER_KNOWS_BEST} text={'ChandlerKnowsBest'} />
                     <LinkButton link={LINKS.CODING_WITH_CHANDLER} text={'CodingWithChandler'} />

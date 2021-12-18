@@ -1,4 +1,6 @@
 export const LINKS = {
+    MOCK_INTERVIEW: 'https://calendly.com/kodeably/mock-behavioral-interview',
+    MENTORSHIP_SESSION: 'https://calendly.com/kodeably/mentorship-session',
     FREE_INTERVIEW: 'https://docs.google.com/forms/d/e/1FAIpQLSe-ioQYsCo4JuqxzTCXaUkAO5AbWeQyf2M_eV9UC9Ip5k0EWg/viewform?usp=sf_link',
     CODING_WITH_CHANDLER: 'https://www.youtube.com/channel/UCkeSKp49ycaZRlGKkCRRi1g',
     CHANDLER_KNOWS_BEST: 'https://www.youtube.com/user/ChandlerKnowsBest',
@@ -6,9 +8,9 @@ export const LINKS = {
     INSTAGRAM: 'https://www.instagram.com/chandler.keyes/',
     TWITTER: 'https://twitter.com/chandlerkeyes',
     LINKEDIN: 'https://www.linkedin.com/in/chandlerkeyes/',
-    LATEST_VIDEO: 'https://www.youtube.com/watch?v=K30lf2pj_dA&t=149s',
-    LATEST_VIDEO2: 'https://www.youtube.com/watch?v=doiIhhq-orE',
-    LATEST_VIDEO3: 'https://www.youtube.com/watch?v=6Xt4jx_S5Nw',
+    LATEST_VIDEO: 'https://www.youtube.com/watch?v=8HtgehWoOu0',
+    LATEST_VIDEO2: 'https://www.youtube.com/watch?v=tk1H5fPt1Dg',
+    LATEST_VIDEO3: 'youtube.com/watch?v=HMOKYwja0ok',
     GITHUB: 'https://github.com/chandlerkeyes',
     KODEABLY: 'https://www.kodeably.com'
 }

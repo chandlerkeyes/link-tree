@@ -11,14 +11,15 @@ function LinkTree() {
             <div className={`${CLASS_NAME}-container`}>
                 <div className={`${CLASS_NAME}-image`} />
                 <p className="email">chandler@kodeably.com</p>
-                <LinkButton link={LINKS.FREE_INTERVIEW} text={`Free Mock Interview Signup Form`} />
+                <LinkButton link={LINKS.MOCK_INTERVIEW} text={`Sign up for a Mock Interview Today!`} />
+                <LinkButton link={LINKS.MENTORSHIP_SESSION} text={`Schedule a Mentorship Session`} />
                 <br/>
                 <LinkButton link={LINKS.KODEABLY} text={`kodeably.com`} />
                 <h3>Latest Videos</h3>
                 <div className="button-group-2">
-                    <LinkButton link={LINKS.LATEST_VIDEO} text={`Fake Moonlanding`} />
-                    <LinkButton link={LINKS.LATEST_VIDEO2} text={`Why Going Through A Coding Bootcamp Helped Me Land My First Job`} />
-                    <LinkButton link={LINKS.LATEST_VIDEO3} text={`How to Start Coding TODAY`} />
+                    <LinkButton link={LINKS.LATEST_VIDEO} text={`Bad Decisions I've Made as a Software Engineer`} />
+                    <LinkButton link={LINKS.LATEST_VIDEO2} text={`Common Interviewing Mistakes You Should Avoid`} />
+                    <LinkButton link={LINKS.LATEST_VIDEO3} text={`Why You Should Get a STEM Job`} />
                 </div>
                 <h3>YouTube</h3>
                 <div className="button-group-1">

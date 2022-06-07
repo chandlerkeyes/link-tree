@@ -1,5 +1,6 @@
 export const LINKS = {
     MOCK_INTERVIEW: 'https://calendly.com/kodeably/mock-behavioral-interview',
+    MOCK_INTERVIEW_GIVEAWAY: 'https://forms.gle/eyVSvMBtYjr1v9DL7',
     MENTORSHIP_SESSION: 'https://calendly.com/kodeably/mentorship-session',
     FREE_INTERVIEW: 'https://docs.google.com/forms/d/e/1FAIpQLSe-ioQYsCo4JuqxzTCXaUkAO5AbWeQyf2M_eV9UC9Ip5k0EWg/viewform?usp=sf_link',
     CODING_WITH_CHANDLER: 'https://www.youtube.com/channel/UCkeSKp49ycaZRlGKkCRRi1g',
@@ -12,5 +13,8 @@ export const LINKS = {
     LATEST_VIDEO2: 'https://www.youtube.com/watch?v=tk1H5fPt1Dg',
     LATEST_VIDEO3: 'youtube.com/watch?v=HMOKYwja0ok',
     GITHUB: 'https://github.com/chandlerkeyes',
-    KODEABLY: 'https://www.kodeably.com'
+    KODEABLY: 'https://www.kodeably.com',
+    KODEABLY_LINKEDIN: 'https://www.linkedin.com/company/kodeably?trk=public_profile_topcard-current-company',
+    KODEABLY_TWITTER: 'https://twitter.com/kodeably',
+    KODEABLY_FACEBOOK: 'https://www.facebook.com/kodeably.inc'
 }

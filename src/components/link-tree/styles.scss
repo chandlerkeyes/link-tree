@@ -1,5 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Syne:wght@400;500&display=swap');
 
+a {
+    margin-bottom: 15px;
+}
 .link-tree {
     .email {
         color: #ffffff;
@@ -15,7 +18,7 @@
     }
 
     &-image {
-        content: url(../../assets/selfie.jpg);
+        content: url(../../assets/kodeablypic.jpg);
         border-radius: 50%;
         border: 3px solid #ffffff;
         width: 200px;

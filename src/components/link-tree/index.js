@@ -11,6 +11,7 @@ function LinkTree() {
             <div className={`${CLASS_NAME}-container`}>
                 <div className={`${CLASS_NAME}-image`} />
                 <p className="email">chandler@kodeably.com</p>
+                <LinkButton link={"https://shoutouthtx.com/meet-chandler-keyes-ceo-of-kodeably-software-engineering-manager-at-integral/"} text={`ShoutoutHTX: Meet Chandler Keyes | CEO of Kodeably`} />
                 <h3>Kodeably Services</h3>
                 <LinkButton link={LINKS.MOCK_INTERVIEW_GIVEAWAY} text={`FREE Behavioral Mock Interview Giveaway Sign Up`} />
                 <LinkButton link={LINKS.MOCK_INTERVIEW} text={`Sign up for a Mock Interview Today!`} />

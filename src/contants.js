@@ -9,7 +9,7 @@ export const LINKS = {
     INSTAGRAM: 'https://www.instagram.com/chandler.keyes/',
     TWITTER: 'https://twitter.com/chandlerkeyes',
     LINKEDIN: 'https://www.linkedin.com/in/chandlerkeyes/',
-    LATEST_VIDEO: 'https://www.youtube.com/watch?v=8HtgehWoOu0',
+    LATEST_VIDEO: 'https://youtu.be/MQuAflcXK-4',
     LATEST_VIDEO2: 'https://www.youtube.com/watch?v=tk1H5fPt1Dg',
     LATEST_VIDEO3: 'youtube.com/watch?v=HMOKYwja0ok',
     GITHUB: 'https://github.com/chandlerkeyes',

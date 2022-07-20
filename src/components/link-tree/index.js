@@ -23,7 +23,7 @@ function LinkTree() {
                 <LinkButton link={LINKS.KODEABLY_FACEBOOK} text={`Facebook`} />
                 <LinkButton link={LINKS.KODEABLY} text={`kodeably.com`} />
                 <h3>Latest Videos</h3>
-                    <LinkButton link={LINKS.LATEST_VIDEO} text={`Bad Decisions I've Made as a Software Engineer`} />
+                    <LinkButton link={LINKS.LATEST_VIDEO} text={`FAQs About Coding`} />
                     <LinkButton link={LINKS.LATEST_VIDEO2} text={`Common Interviewing Mistakes You Should Avoid`} />
                     <LinkButton link={LINKS.LATEST_VIDEO3} text={`Why You Should Get a STEM Job`} />
                 <h3>YouTube</h3>

@@ -8,7 +8,7 @@ export const LINKS = {
     INSTAGRAM: 'https://www.instagram.com/chandler.keyes/',
     TWITTER: 'https://twitter.com/chandlerkeyes',
     LINKEDIN: 'https://www.linkedin.com/in/chandlerkeyes/',
-    LATEST_VIDEO: 'https://www.youtube.com/watch?v=fbsoO9g-glg',
+    LATEST_VIDEO: 'https://www.youtube.com/watch?v=K-hYpHrZ-9o',
     LATEST_VIDEO2: 'https://www.youtube.com/watch?v=tk1H5fPt1Dg',
     LATEST_VIDEO3: 'youtube.com/watch?v=HMOKYwja0ok',
     GITHUB: 'https://github.com/chandlerkeyes',

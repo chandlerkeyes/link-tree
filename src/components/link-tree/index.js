@@ -14,7 +14,7 @@ function LinkTree() {
                 <LinkButton link={LINKS.KEYRECRUIT} text={`KeyRecruit | www.keyrecruit.io`} />
                 <LinkButton link={"https://shoutouthtx.com/meet-chandler-keyes-ceo-of-kodeably-software-engineering-manager-at-integral/"} text={`ShoutoutHTX: Meet Chandler Keyes | CEO of Kodeably`} />
                 <h3>Latest YouTube Video</h3>
-                <LinkButton link={LINKS.LATEST_VIDEO} text={`Start Your Business Today in 5 Easy Steps`} />
+                <LinkButton link={LINKS.LATEST_VIDEO} text={`Strawberry Cake Recipe (SUPER MOIST)`} />
                 <h3>KeyRecruit Services</h3>
                 <LinkButton link={LINKS.MOCK_INTERVIEW} text={`Sign up for a Mock Interview Today!`} />
                 <LinkButton link={LINKS.MENTORSHIP_SESSION} text={`Schedule a Mentorship Session`} />
